@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Directory Home Lab](https://github.com/joanaliseoellig/LABURL)
+- [Azure Directory Home Lab](https://github.com/jo-oellig/Active-Directory-Lab/tree/main)
 
 <h2>Certifications:</h2>
 
