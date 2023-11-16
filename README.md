@@ -1,4 +1,4 @@
-<h1>Hi, I'm JoAnalise! <br/><a href="<a href="https://www.linkedin.com/in/jo-oellig/">Cybersecurity Professional</a>
+<h1>Hi, I'm JoAnalise! <br/>Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
